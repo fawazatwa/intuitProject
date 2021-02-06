@@ -1,0 +1,50 @@
+{
+  "accounts": [
+    {
+      "account": "7b5092b8-73f1-471d-96d8-31b20dca913b",
+      "type": "PERSONAL",
+      "amount": 30000,
+      "currency": "EURO",
+      "transactions": [
+        {
+          "id": 21323424353,
+          "amount": 12.45,
+          "currency": "USD"
+        },
+        {
+          "id": 6342746827642876,
+          "amount": -67.13,
+          "currency": "GBP"
+        },
+        {
+          "id": 58958088504,
+          "amount": 987.5,
+          "currency": "NIS"
+        }
+      ]
+    },
+    {
+      "account": "e53cbe01-542c-4e70-b1e5-60956af73f037b5092b8-73f1-471d-96d8-31b20dca913b",
+      "type": "BUSINESS",
+      "amount": 30000,
+      "currency": "Dollar",
+      "transactions": [
+        {
+          "id": 789698,
+          "amount": 45888.787,
+          "currency": "USD"
+        },
+        {
+          "id": 34579080,
+          "amount": -67.13,
+          "currency": "FEN"
+        },
+        {
+          "id": 23489080,
+          "amount": 71.51,
+          "currency": "EUR"
+        }
+      ]
+    }
+  ]
+}
